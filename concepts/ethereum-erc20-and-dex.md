@@ -8,7 +8,7 @@ Welcome to the exciting world of building applications on the [Ethereum Blockcha
 
 ## DEX \(decentralized exchange\)
 
-A DEX is a decentralized exchange and is essentially a new type of pair matching that allows people to place orders and trade cryptocurrencies without an intermediary institution managing the ledger or controlling user funds. \[What is a Dex\]\([https://coincentral.com/dex-decentralized-exchanges-explained/](https://coincentral.com/dex-decentralized-exchanges-explained/)\)
+A DEX is a decentralized exchange and is essentially a new type of pair matching that allows people to place orders and trade cryptocurrencies without an intermediary institution managing the ledger or controlling user funds. [What is a Dex](https://coincentral.com/dex-decentralized-exchanges-explained). 
 
 
 
